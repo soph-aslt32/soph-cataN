@@ -1,0 +1,9 @@
+[project]
+name = "soph-catan"
+version = "0.1.0"
+description = "DROP THE 'SOPH' BEAT IN DA CATAN GAME"
+readme = "README.md"
+requires-python = "==3.13.1"
+dependencies = [
+    "pycatan>=1.0.1",
+]
